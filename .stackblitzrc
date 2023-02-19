@@ -5,9 +5,5 @@
     "jquery": "^3.6.0",
     "popper.js": "^2.10.2"
   },
-  "files": [
-    "index.html",
-    "index.js",
-    "styles.scss"
-  ]
+  "files": ["index.html", "index.js", "styles.scss"]
 }

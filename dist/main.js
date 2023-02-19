@@ -3,7 +3,6 @@ import './styles.scss';
 
 // Wait for the document to finish loading before running any code
 document.addEventListener('DOMContentLoaded', () => {
-  
   // Get a reference to the button on the page
   const button = document.querySelector('.btn-primary');
 
